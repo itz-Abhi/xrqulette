@@ -12,6 +12,8 @@
 * [🦚 Web Site](https://xrqu.live)
 
 # 🍁 》Technologies I use 
+<img src="https://skillicons.dev/icons?i=nextjs,html,css,javascript,typescript,php,tailwindcss,nestjs,mongodb,heroku,github,alpinejs,arduino,bootstrap,java,git,go,ps,sqlite,mysql,nodejs,prisma,sass,webpack,react,express&theme=dark" />
+</div>
 
 # 🌼 》My user information
 <div align="center" width="100%">
