@@ -5,12 +5,13 @@
 ## 🥀 》About me 
 * Hello everyone, I'm xrqu. I am the funder of Stoneclane Development. My favorite programming language is Javascript. Even though I am a kind person sometimes I can be bad sometimes, I hope you will be kind to me :) 
 
-# 🖥 》My Social Media Addresses 
+# 🖥 》My Social Media Addresses
+<div align="left" width="45%"
 
-* [🐦 Twitter](https://twitter.com/xrqulette) 
-* [🌻 İnstagram](https://instagram.com/xrqu.live)
-* [🌲 Contact](mailto:xrqu@sdevs.org)
-* [🦚 Web Site](https://xrqu.lve)
+* [🐦 Twitter](https://twitter.com/xrqulette) ▪︎ [🌲 Contact](mailto:xrqu@sdevs.org)
+* [🌻 İnstagram](https://instagram.com/xrqu.live) ▪︎ [🦚 Web Site](https://xrqu.live)
+
+</div>
 
 # 🍁 》Technologies I use 
 <img src="https://skillicons.dev/icons?i=nextjs,html,css,javascript,typescript,php,tailwindcss,nestjs,mongodb,heroku,github,alpinejs,arduino,bootstrap,java,git,go,ps,sqlite,mysql,nodejs,prisma,sass,webpack,react,express&theme=dark" />
