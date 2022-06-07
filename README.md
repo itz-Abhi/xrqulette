@@ -3,7 +3,8 @@
 # ⚡ ❱ Hello everyone 👊, I'm xrqu.
 
 ## 🥀 ❱ About me 
-* Hello everyone, I'm xrqu. I am the funder of Stoneclane Development. My favorite programming language is Javascript. Even though I am a kind person sometimes I can be bad sometimes, I hope you will be kind to me :) 
+
+* Hello everyone, I'm **xrqu**. I am the funder of Stoneclane Development. My favorite programming language is Javascript. Even though I am a kind person sometimes I can be bad sometimes, I hope you will be kind to me. thank you for reading :) 
 
 ## 🖥 ❱ My Social Media Addresses
 <div align="left" width="45%"
