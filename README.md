@@ -9,8 +9,8 @@
 ## 🖥 ❱ My Social Media Addresses
 <div align="left" width="45%"
 
-* [🐦 Twitter](https://twitter.com/xrqulette) ▪︎ [🌲 Contact](mailto:xrqu@sdevs.org)
-* [🌻 İnstagram](https://instagram.com/xrqu.live) ▪︎ [🦚 Web Site](https://xrqu.live)
+* [🐦 Twitter](https://twitter.com/xrqulette) ▪︎ [🌲 Contact](mailto:xrqu@sdevs.org) ▪︎ [🥀 Crates](https://cratesapp.xyz/@heyturkiye)
+* [🌻 İnstagram](https://instagram.com/xrqu.live) ▪︎ [🦚 Web Site](https://xrqu.live) ▪︎ [🌌 TrestHost](https://tresthost.com)
 
 </div>
 
