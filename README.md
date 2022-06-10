@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://raw.githubusercontent.com/xrqulette/xrqulette/main/1653471573834.png" />
+<img width="250" align="right" src="https://raw.githubusercontent.com/xrqulette/xrqulette/main/picture/1654870127275.png" />
 
 # ⚡ ❱ Hello everyone 👊, I'm xrqu.
 
